@@ -1,0 +1,4 @@
+# config/keys.yaml (手动填写你的 API KEY)
+baidu_key: "abc123YOUR_BAIDU_KEY"
+gaode_key: "xyz456YOUR_GAODE_KEY"
+hefeng_key: "def789YOUR_HEFENG_KEY"
